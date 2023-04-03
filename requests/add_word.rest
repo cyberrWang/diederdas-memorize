@@ -1,0 +1,7 @@
+POST http://localhost:3005/api/words
+Content-Type: application/json
+
+{
+  "noun": "Straße",
+  "gender": "die"
+}
