@@ -7,7 +7,7 @@ Built with Express.
 
 Test Extention : REST Client
 
-Backend: https://github.com/cyberrWang/diederdas-memorize-frontend
+Frontend: https://github.com/cyberrWang/diederdas-memorize-frontend
 
 Live demo: https://diederdas-memorize.onrender.com/
 
