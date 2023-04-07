@@ -22,4 +22,4 @@ Live demo: https://diederdas-memorize.onrender.com/
 
 I'm learning German right now, and it's so hard to remember the gender of German nouns, which gave me the idea to create an app to help with this situation ^_^
 
-我正在学习德语，德语的名词有三种性别，非常难记，所以创建了一个app想来帮助记忆！
+我正在学习德语，德语的名词有三种性别，非常难记，所以想创建一个app来帮助记忆！
