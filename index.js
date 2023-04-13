@@ -90,10 +90,9 @@ app.get('/api/words/:id', (request, response) => {
   }
 })
 
-app.put('/api/words', (request, response) => {
+app.put('/api/words/:id', (request, response) => {
+  const id = Number(request.params.id);
   const body = request.body;
-  const id = Number(request.body.id);
-  body.id = id;
   if (!words.find(word => word.id === id)) {
     return response.status(400).json({
       error: 'word missing'
